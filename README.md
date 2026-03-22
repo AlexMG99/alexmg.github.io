@@ -1,2 +1,3 @@
-# alexmg.github.io
+# Information
 Webpage of Alex Morales Garcia
+https://alexmg.github.io/
